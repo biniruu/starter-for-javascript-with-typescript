@@ -1,0 +1,47 @@
+{
+  "name": "boilerplate-javascript-with-typescript",
+  "version": "1.0.0",
+  "description": "타입스크립트 프로젝트를 바로 시작할 수 있는 보일러플레이트예요.",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biniruu/javascript-with-typescript-boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "javascript",
+    "typescript",
+    "vanillajs",
+    "vanillascript"
+  ],
+  "author": "biniruu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biniruu/javascript-with-typescript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/biniruu/javascript-with-typescript-boilerplate#readme",
+  "devDependencies": {
+    "@stylelint/postcss-css-in-js": "^0.37.2",
+    "@typescript-eslint/eslint-plugin": "^5.21.0",
+    "@typescript-eslint/parser": "^5.21.0",
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-import-resolver-typescript": "^2.7.1",
+    "eslint-plugin-jest": "^26.1.5",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-webpack-plugin": "^3.1.1",
+    "jest": "^28.0.3",
+    "postcss-syntax": "^0.36.2",
+    "prettier": "^2.6.2",
+    "stylelint": "^14.8.1",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^25.0.0",
+    "stylelint-order": "^5.0.0",
+    "stylelint-scss": "^4.2.0",
+    "ts-jest": "^27.1.4",
+    "typescript": "^4.6.4"
+  }
+}
