@@ -1,6 +1,6 @@
-# JavaScript with TypeScript boilerplate
+# JavaScript with TypeScript Starter
 
-타입스크립트 프로젝트를 바로 시작할 수 있는 보일러플레이트예요.
+타입스크립트 프로젝트를 시작할 때 필요한 스타터예요.
 
 개인 프로젝트용으로 만들었기 때문에 각 설정 파일은 개인 취향에 맞췄어요.  
 저와 취향이 다른 사람에게는 맞지 않을 수도 있어요😇
@@ -43,7 +43,7 @@ $ yarn add -D @stylelint/postcss-css-in-js postcss-syntax stylelint stylelint-co
 
 ## Typescript
 
-$ yarn add -D @stylelint/postcss-css-in-js @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-import-resolver-typescript postcss-syntax
+$ yarn add -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-import-resolver-typescript
 ```
 
 <br>
@@ -78,6 +78,12 @@ $ yarn add -D @stylelint/postcss-css-in-js @typescript-eslint/eslint-plugin @typ
 
 - @babel/core : @babel/eslint-parser 설치를 위해 필요
 - @babel/eslint-parser : babel-eslint
+```
+
+```
+💁🏻‍♀️ jest를 사용한다면 아래 패키지는 필요하지 않아요.
+
+- @types/node : node.js에서 사용하는 type 정의
 ```
 
 ```
@@ -163,4 +169,4 @@ _괄호 안에 있는 익스텐션 ID로 검색하면 편리하게 찾을 수 �
 
 이곳에서 더 많은 설정과 패키지를 찾아보세요.
 
-[Common sources for boilerplate](https://github.com/biniruu/boilerplate-common-sources)
+[Starter Kit for Settings](https://github.com/biniruu/starter-kit-for-settings)
